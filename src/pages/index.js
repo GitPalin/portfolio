@@ -93,7 +93,7 @@ class HomeIndex extends React.Component {
                         </header>
                         <p>I am a Front & Backend developer in the making.</p>
                         <ul className="actions">
-                            <li><a href="three" className="button">Hire Me</a></li>
+                            <li><a href="#three" className="button">Hire Me</a></li>
                         </ul>
                     </section>
 
@@ -108,13 +108,13 @@ class HomeIndex extends React.Component {
                         }))} />
 
                         <ul className="actions">
-                            <li><a href="#" className="button">Full Portfolio</a></li>
+                            <li><a href="https://www.freecodecamp.org/gitpalin" className="button">FreeCodeCamp profile</a></li>
                         </ul>
                     </section>
 
                     <section id="three">
                         <h2>Get In Touch</h2>
-                        <p>Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor.</p>
+                        <p>Let's build something together.</p>
                         <div className="row">
                             <div className="8u 12u$(small)">
                                 <form method="post" action="#">
