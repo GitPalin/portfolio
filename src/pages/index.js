@@ -91,7 +91,7 @@ class HomeIndex extends React.Component {
                         <header className="major">
                             <h2>Hi there!</h2>
                         </header>
-                        <p>I am a Front & Backend developer in the making.</p>
+                        <p>I am a Frontend & Backend developer in the making.</p>
                         <ul className="actions">
                             <li><a href="#three" className="button">Hire Me</a></li>
                         </ul>
