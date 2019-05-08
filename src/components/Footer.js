@@ -12,7 +12,7 @@ class Footer extends React.Component {
                         <li><a href="#" className="icon fa-envelope-o"><span className="label">Email</span></a></li>
                     </ul>
                     <ul className="copyright">
-                        <li>&copy; GitPalin 2019</li><li>Design: <a href="">GitPalin</a></li>
+                        <li>&copy; GitPalin 2019</li><li>Design: <a href="https://github.com/GitPalin" target="blank">GitPalin</a>, based on <a href="https://html5up.net/strata">html5up</a> template.</li>
                     </ul>
                 </div>
             </div>
